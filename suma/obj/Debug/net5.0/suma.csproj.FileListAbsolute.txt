@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\UCA 2021\suma\bin\Debug\net5.0\suma.exe
+C:\Users\david\Desktop\UCA 2021\suma\bin\Debug\net5.0\suma.deps.json
+C:\Users\david\Desktop\UCA 2021\suma\bin\Debug\net5.0\suma.runtimeconfig.json
+C:\Users\david\Desktop\UCA 2021\suma\bin\Debug\net5.0\suma.runtimeconfig.dev.json
+C:\Users\david\Desktop\UCA 2021\suma\bin\Debug\net5.0\suma.dll
+C:\Users\david\Desktop\UCA 2021\suma\bin\Debug\net5.0\ref\suma.dll
+C:\Users\david\Desktop\UCA 2021\suma\bin\Debug\net5.0\suma.pdb
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\suma.csprojAssemblyReference.cache
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\suma.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\suma.AssemblyInfo.cs
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\suma.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\suma.dll
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\ref\suma.dll
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\suma.pdb
+C:\Users\david\Desktop\UCA 2021\suma\obj\Debug\net5.0\suma.genruntimeconfig.cache

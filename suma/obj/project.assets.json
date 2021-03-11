@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\Desktop\\tuki tuki gaming POO01\\primer_programa\\primer_programa.csproj",
-      "projectName": "primer_programa",
-      "projectPath": "C:\\Users\\david\\Desktop\\tuki tuki gaming POO01\\primer_programa\\primer_programa.csproj",
+      "projectUniqueName": "C:\\Users\\david\\Desktop\\UCA 2021\\suma\\suma.csproj",
+      "projectName": "suma",
+      "projectPath": "C:\\Users\\david\\Desktop\\UCA 2021\\suma\\suma.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\Desktop\\tuki tuki gaming POO01\\primer_programa\\obj\\",
+      "outputPath": "C:\\Users\\david\\Desktop\\UCA 2021\\suma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"

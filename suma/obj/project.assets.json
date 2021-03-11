@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\david\\.nuget\\packages\\": {}
+    "C:\\Users\\gho78\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\Desktop\\UCA 2021\\suma\\suma.csproj",
+      "projectUniqueName": "C:\\Users\\gho78\\Documents\\tuki-tuki-gaming_POO0121\\suma\\suma.csproj",
       "projectName": "suma",
-      "projectPath": "C:\\Users\\david\\Desktop\\UCA 2021\\suma\\suma.csproj",
-      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\Desktop\\UCA 2021\\suma\\obj\\",
+      "projectPath": "C:\\Users\\gho78\\Documents\\tuki-tuki-gaming_POO0121\\suma\\suma.csproj",
+      "packagesPath": "C:\\Users\\gho78\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gho78\\Documents\\tuki-tuki-gaming_POO0121\\suma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gho78\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

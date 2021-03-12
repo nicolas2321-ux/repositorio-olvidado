@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\bin\Debug\net5.0\counters_acumulators.exe
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\bin\Debug\net5.0\counters_acumulators.deps.json
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\bin\Debug\net5.0\counters_acumulators.runtimeconfig.json
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\bin\Debug\net5.0\counters_acumulators.runtimeconfig.dev.json
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\bin\Debug\net5.0\counters_acumulators.dll
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\bin\Debug\net5.0\ref\counters_acumulators.dll
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\bin\Debug\net5.0\counters_acumulators.pdb
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\counters_acumulators.csprojAssemblyReference.cache
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\counters_acumulators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\counters_acumulators.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\counters_acumulators.AssemblyInfo.cs
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\counters_acumulators.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\counters_acumulators.dll
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\ref\counters_acumulators.dll
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\counters_acumulators.pdb
+C:\Users\david\Desktop\tuki tuki gaming POO01\Counters and acumulators\counters_acumulators\obj\Debug\net5.0\counters_acumulators.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\Desktop\\Counters and acumulators\\counters_acumulators\\counters_acumulators.csproj",
+      "projectUniqueName": "C:\\Users\\david\\Desktop\\tuki tuki gaming POO01\\Counters and acumulators\\counters_acumulators\\counters_acumulators.csproj",
       "projectName": "counters_acumulators",
-      "projectPath": "C:\\Users\\david\\Desktop\\Counters and acumulators\\counters_acumulators\\counters_acumulators.csproj",
+      "projectPath": "C:\\Users\\david\\Desktop\\tuki tuki gaming POO01\\Counters and acumulators\\counters_acumulators\\counters_acumulators.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\Desktop\\Counters and acumulators\\counters_acumulators\\obj\\",
+      "outputPath": "C:\\Users\\david\\Desktop\\tuki tuki gaming POO01\\Counters and acumulators\\counters_acumulators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"

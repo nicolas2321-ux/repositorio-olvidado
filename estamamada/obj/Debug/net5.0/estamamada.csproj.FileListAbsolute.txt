@@ -1,0 +1,16 @@
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\bin\Debug\net5.0\estamamada.exe
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\bin\Debug\net5.0\estamamada.deps.json
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\bin\Debug\net5.0\estamamada.runtimeconfig.json
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\bin\Debug\net5.0\estamamada.runtimeconfig.dev.json
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\bin\Debug\net5.0\estamamada.dll
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\bin\Debug\net5.0\ref\estamamada.dll
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\bin\Debug\net5.0\estamamada.pdb
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\estamamada.csprojAssemblyReference.cache
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\estamamada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\estamamada.AssemblyInfoInputs.cache
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\estamamada.AssemblyInfo.cs
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\estamamada.csproj.CoreCompileInputs.cache
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\estamamada.dll
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\ref\estamamada.dll
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\estamamada.pdb
+C:\Users\gho78\Documents\ciclo 3\POO\ejercicio01\estamamada\obj\Debug\net5.0\estamamada.genruntimeconfig.cache

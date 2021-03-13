@@ -6,7 +6,20 @@ namespace counters_acumulators
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            int number = 0;
+            Console.WriteLine("Digite su numero: ");
+            number = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = number; i >= 0; i --)
+            {
+                Console.Write($"{i}, ");
+                Console.WriteLine(" ");
+                Console.Write($"{i-1}, ");
+
+
+            }
+        
+
+          }
     }
 }

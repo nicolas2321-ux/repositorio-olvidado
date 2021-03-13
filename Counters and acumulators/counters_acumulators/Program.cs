@@ -13,9 +13,6 @@ namespace counters_acumulators
             for (int i = number; i >= 0; i --)
             {
                 Console.Write($"{i}, ");
-                Console.WriteLine(" ");
-                Console.Write($"{i-1}, ");
-
 
             }
         
